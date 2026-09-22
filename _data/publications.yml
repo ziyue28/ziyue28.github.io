@@ -10,13 +10,13 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: Robust beamforming design for STAR-RIS aided RSMA network with hardware impairments
+    authors: <strong>Ziyue Wang*</strong>, Xiaoyan Ma, Xingyu Peng, Zheao Li, Jinyuan Liu, Yongliang Guan, Chau Yuen* (*Corresponding authors)
+    conference_short: TVT
+    conference: IEEE Transactions on Vehicular Technology
+    pdf: 
+    code: 
+    page: https://ieeexplore.ieee.org/document/11202430
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/robust_beamforming _design.png
