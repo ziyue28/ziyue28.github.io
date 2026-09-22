@@ -14,9 +14,9 @@ main:
     authors: <strong>Ziyue Wang</strong>, Xiaoyan Ma, Xingyu Peng, Zheao Li, Jinyuan Liu, Yongliang Guan, Chau Yuen*
     conference_short: TVT
     conference: IEEE Transactions on Vehicular Technology
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/document/11202430
     code: 
-    page: https://ieeexplore.ieee.org/document/11202430
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/robust_beamforming _design.png
+    page: 
+    bibtex:
+    notes:
+    image: ./assets/img/robust_beamforming_design.png
