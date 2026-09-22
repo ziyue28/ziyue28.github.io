@@ -11,7 +11,7 @@ main:
     notes: Early Accept
 
   - title: Robust beamforming design for STAR-RIS aided RSMA network with hardware impairments
-    authors: <strong>Ziyue Wang*</strong>, Xiaoyan Ma, Xingyu Peng, Zheao Li, Jinyuan Liu, Yongliang Guan, Chau Yuen* (*Corresponding authors)
+    authors: <strong>Ziyue Wang</strong>, Xiaoyan Ma, Xingyu Peng, Zheao Li, Jinyuan Liu, Yongliang Guan, Chau Yuen*
     conference_short: TVT
     conference: IEEE Transactions on Vehicular Technology
     pdf: 
