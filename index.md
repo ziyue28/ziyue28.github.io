@@ -11,7 +11,7 @@ The University of Hong Kong, under the supervision of
 Previously, I earned my B.Eng. degree from Beijing Jiaotong University
 in 2023 and my M.Sc. degree from Nanyang Technological University in
 2024, where I was supervised by
-[Prof. Yuen Chau](https://blogs.ntu.edu.sg/chau-yuen/).
+[Prof. Chau Yuen](https://blogs.ntu.edu.sg/chau-yuen/).
 
 After completing my master's degree, I worked as a wireless communications engineer at Ericsson from 2024 to 2026, where I gained valuable industry experience.
 
