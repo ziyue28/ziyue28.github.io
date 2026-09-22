@@ -15,7 +15,7 @@ in 2023 and my M.Sc. degree from Nanyang Technological University in
 
 After completing my master's degree, I worked as a wireless communications engineer at Ericsson from 2024 to 2026, where I gained valuable industry experience.
 
-My current research focus on AI for wireless communication. Please always feel free to contact me.
+My current research focuses on AI for wireless communications. Besides work, I'm a huge music fan. I have played guitar and bass and performed as a vocalist for years, participating in more than 100 performances. If you are interested in my work or share the same hobby, please do not hesitate to reach out to me.
 
 {% include_relative _includes/publications.md %}
 
