@@ -11,7 +11,7 @@ main:
     notes:
     image: ./assets/img/robust_beamforming_design.png
 
- - title: 2-Bit RIS Prototyping Enhancing Rapid-Response Space-Time Wavefront Manipulation for Wireless Communication: Experimental Studies
+  - title: 2-Bit RIS Prototyping Enhancing Rapid-Response Space-Time Wavefront Manipulation for Wireless Communication: Experimental Studies
     authors: Yufei Zhao, Yuan Feng*, Afkar Mohamed Ismail, <strong>Ziyue Wang<strong>, Yong Liang Guan, Yongxin Guo, Chau Yuen
     conference_short: OJCOMS
     conference: IEEE Open Journal of the Communications Society
