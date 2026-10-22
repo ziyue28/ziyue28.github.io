@@ -1,6 +1,6 @@
 main:
  
-  - title: Beam-STeP: Generative Site-Specific Beam Prediction with Spatio-Temporal Priors
+  - title: "Beam-STeP: Generative Site-Specific Beam Prediction with Spatio-Temporal Priors"
     authors: <strong>Ziyue Wang</strong>, Zongyao Zhao, Zhaolin Wang, Yuanwei Liu*
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2610.20282
